@@ -41,22 +41,22 @@ https://captured09.netlify.app/
  
       
 ## 📋 Dependencies Used
-  "@react-oauth/google": "^0.2.6",
-  "@sanity/client": "^3.3.3",
-  "@sanity/image-url": "^1.0.1",
-  "@testing-library/jest-dom": "^5.16.5",
-  "@testing-library/react": "^13.3.0",
-  "@testing-library/user-event": "^13.5.0",
-  "jwt-decode": "^3.1.2",
-  "react": "^18.2.0",
-  "react-dom": "^18.2.0",
-  "react-google-login": "^5.2.2",
-  "react-icons": "^4.4.0",
-  "react-loader-spinner": "^5.1.7-beta.1",
-  "react-masonry-css": "^1.0.16",
-  "react-router-dom": "^6.3.0",
-  "react-scripts": "5.1.0-next.14",
-  "uuid": "^8.3.2",      
+ - @react-oauth/google : ^0.2.6
+ - @sanity/client: ^3.3.3
+ - @sanity/image-url: ^1.0.1
+ - @testing-library/jest-dom: ^5.16.5
+ - @testing-library/react: ^13.3.0
+ - @testing-library/user-event: ^13.5.0
+ - jwt-decode: ^3.1.2
+ - react: ^18.2.0
+ - react-dom: ^18.2.0
+ - react-google-login: ^5.2.2
+ - react-icons: ^4.4.0
+ - react-loader-spinner: ^5.1.7-beta.1
+ - react-masonry-css: "^1.0.16
+ - react-router-dom: ^6.3.0
+ - react-scripts: 5.1.0-next.14
+ - uuid: ^8.3.2
       
  ## ✍️Author
 
