@@ -1,22 +1,23 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/93209316/184553348-6f25c0dd-5f6e-4b30-8797-68b3b42e41f4.png" alt="logo" width=400px/></div>
 
 
+<hr>
 
-
-<p align="center">Now-a-days we use various accounts for various purposes for a single service. The service can be for example your google account, and we tend to have more than one account. Personal, Organization (Education, Company etc.), group/team account are some examples of multiple accounts we have for a particular service. As we have separate accounts for separate use cases, we also have their individual passwords, keeping track of all these passwords can be hard. A password manager is the correct solution for this problem. But a password manager should manage the passwords in such a way that the passwords will never be leaked, shared or compromised in any way. The passwords should be stored in the manager in an encrypted way so even if the password gets leaked, it will be unreadable/unrecognizable. This project uses three layers of security(Biometric, Encryption and Hive Encrypted Box).</p>
-
+<p align="center">Captured 📸 - Full Stack Application Where Users can share, download, save pins of the different catagories such as technology, nature, animals, wallpapers, etc.<br>User will have Personalied profile page where saved and created pins will displayed. Frontend is created using React 🔯 and styled using Tailwind CSS 🌟.  Sanity.io ⚒️ as an unified content platform which powers better digital experiences.<br>Give Your Best Shot 😉</p>
+ 
+ 
 ## 📱 Screenshots
 
 <table>
   <tr>
     <td><img src = "https://user-images.githubusercontent.com/93209316/184554295-c8482ac3-9966-4d7b-9987-c240254d304c.png" alt = "Google Authentication" width = "650" height = "250"></td>
-    <td><img src = "https://user-images.githubusercontent.com/93209316/184554414-db75dec0-ecdd-4ea8-85c4-225a36bfdf18.png" alt = "Google Authentication" width = "650" height = "250"></td>
+    <td><img src = "https://user-images.githubusercontent.com/93209316/184554414-db75dec0-ecdd-4ea8-85c4-225a36bfdf18.png" alt = "Feed View" width = "650" height = "250"></td>
   </tr>
 </table>
 <table>
     <td><img src = "https://user-images.githubusercontent.com/93209316/184554638-810860e0-9f20-4ad6-abbc-349682511b8f.png" alt = "Pin View" width = "650" height =
     "250"></td>
-    <td><img src = "https://user-images.githubusercontent.com/93209316/184554589-74a98e53-cbe8-49b2-b6ef-be9a71a822f3.png" alt = "Google Authentication" width = "650" height = "250"></td>
+    <td><img src = "https://user-images.githubusercontent.com/93209316/184554589-74a98e53-cbe8-49b2-b6ef-be9a71a822f3.png" alt = "Profile View" width = "650" height = "250"></td>
 
 </table>
  
@@ -26,14 +27,16 @@
 https://captured09.netlify.app/
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/92cab500-7139-4527-aa7f-0325ee339c34/deploy-status)](https://app.netlify.com/sites/captured09/deploys)
-      
+  
+  
  ## 🏗️ Built With
 
 - Reactjs
 - Tailwind CSS
 - Sanity
 - Google O Auth
-      
+   
+   
 ## 💡 Project Key Features
 
 - Google Authentication
@@ -43,7 +46,8 @@ https://captured09.netlify.app/
 - Pin Specific Details
 - Save and Dowload Pin
  
-      
+  
+  
 ## 📋 Dependencies Used
  - @react-oauth/google : ^0.2.6
  - @sanity/client: ^3.3.3
@@ -61,7 +65,8 @@ https://captured09.netlify.app/
  - react-router-dom: ^6.3.0
  - react-scripts: 5.1.0-next.14
  - uuid: ^8.3.2
-      
+  
+  
  ## ✍️Author
 
 **Sanket Jagdale**
@@ -70,7 +75,8 @@ https://captured09.netlify.app/
 - [GitHub Profile](https://github.com/Sanket00900)
 - [Email](mailto:sanketsjagdale999@gmail.com?subject=Hi "Hi!" )
    
-      
+  
+  
 ## 🤝 Support
 
 Contributions, issues, and feature requests are welcome!
