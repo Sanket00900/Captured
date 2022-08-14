@@ -10,14 +10,14 @@
 
 <table>
   <tr>
-    <td><img src = "https://user-images.githubusercontent.com/93209316/184554295-c8482ac3-9966-4d7b-9987-c240254d304c.png" alt = "Google Authentication" width = "650" height = "250"></td>
-    <td><img src = "https://user-images.githubusercontent.com/93209316/184554414-db75dec0-ecdd-4ea8-85c4-225a36bfdf18.png" alt = "Feed View" width = "650" height = "250"></td>
+    <td><img src = "https://user-images.githubusercontent.com/93209316/184554295-c8482ac3-9966-4d7b-9987-c240254d304c.png" alt = "Google Authentication" width = "650" height = "230"></td>
+    <td><img src = "https://user-images.githubusercontent.com/93209316/184554414-db75dec0-ecdd-4ea8-85c4-225a36bfdf18.png" alt = "Feed View" width = "650" height = "230"></td>
   </tr>
 </table>
 <table>
-    <td><img src = "https://user-images.githubusercontent.com/93209316/184554638-810860e0-9f20-4ad6-abbc-349682511b8f.png" alt = "Pin View" width = "650" height =
+    <td><img src = "https://user-images.githubusercontent.com/93209316/184554638-810860e0-9f20-4ad6-abbc-349682511b8f.png" alt = "Pin View" width = "620" height =
     "250"></td>
-    <td><img src = "https://user-images.githubusercontent.com/93209316/184554589-74a98e53-cbe8-49b2-b6ef-be9a71a822f3.png" alt = "Profile View" width = "650" height = "250"></td>
+    <td><img src = "https://user-images.githubusercontent.com/93209316/184554589-74a98e53-cbe8-49b2-b6ef-be9a71a822f3.png" alt = "Profile View" width = "620" height = "250"></td>
 
 </table>
  
