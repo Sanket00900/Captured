@@ -58,9 +58,9 @@ https://captured09.netlify.app/
 
 **Sanket Jagdale**
 
-- [GitHub Profile](https://github.com/IshanRakte)
-- [Email](mailto:ishan.rakte@gmail.com?subject=Hi "Hi!" )
-- [LinkedIn](https://www.linkedin.com/in/ishanrakte/)    
+- [GitHub Profile](https://github.com/Sanket00900)
+- [Email](mailto:sanketsjagdale999@gmail.com?subject=Hi "Hi!" )
+- [LinkedIn](https://www.linkedin.com/in/sanket-jagdale-09/)    
       
 ## 🤝 Support
 
