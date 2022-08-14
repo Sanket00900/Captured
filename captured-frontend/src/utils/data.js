@@ -1,8 +1,58 @@
 export const categories = [
   {
+    name: "india",
+    image:
+      "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/india-tech-shutterstock.fw_-675x380.png",
+  },
+  {
     name: "cars",
     image:
       "https://i.pinimg.com/750x/eb/47/44/eb4744eaa3b3ccd89749fa3470e2b0de.jpg",
+  },
+  {
+    name: "bikes",
+    image:
+      "https://images.unsplash.com/photo-1610553556003-9b2ae8ef1b8e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmlrZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+  },
+  {
+    name: "coding",
+    image:
+      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29kaW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+  },
+  {
+    name: "sports",
+    image:
+      "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c3BvcnRzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+  },
+  {
+    name: "business and work ",
+    image:
+      "https://images.unsplash.com/photo-1588358230342-b0db4bd555c4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDJ8YWV1NnJMLWo2ZXd8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
+  },
+  {
+    name: "technology",
+    image:
+      "https://images.unsplash.com/photo-1580894742597-87bc8789db3d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8dGVjaG5vbG9neXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+  },
+  {
+    name: "gadgets",
+    image:
+      "https://images.unsplash.com/photo-1609081219090-a6d81d3085bf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Z2FkZ2V0c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+  },
+  {
+    name: "history",
+    image:
+      "https://images.unsplash.com/photo-1649857815841-9ccbe6eb257b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDF8ZGlqcGJ3OTlrUVF8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
+  },
+  {
+    name: "cars",
+    image:
+      "https://i.pinimg.com/750x/eb/47/44/eb4744eaa3b3ccd89749fa3470e2b0de.jpg",
+  },
+  {
+    name: "animals",
+    image:
+      "https://images.unsplash.com/photo-1659292862392-ac6d0851664e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDh8SnBnNktpZGwtSGt8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
   },
   {
     name: "fitness",

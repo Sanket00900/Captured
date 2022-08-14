@@ -66,7 +66,7 @@ const Pin = ({ pin }) => {
       >
         {image && (
           <img
-            className="rounded-lg w-full "
+            className="rounded-lg w-full border-2 border-slate-150 p-1"
             src={urlFor(image).width(250).url()}
             alt="user-post"
           />
@@ -129,7 +129,7 @@ const Pin = ({ pin }) => {
                     e.stopPropagation();
                     deletePin(_id);
                   }}
-                  className="bg-white p-2 rounded-full w-8 h-8 flex items-center justify-center text-dark opacity-75 hover:opacity-100 outline-none"
+                  className="bg-white p-2 rounded-full w-8 h-8 flex items-center justify-center text-dark opacity-75 hover:opacity-100 outline-none hover:shadow-2xl"
                 >
                   <AiTwotoneDelete />
                 </button>
