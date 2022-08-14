@@ -31,7 +31,7 @@ const Feed = () => {
   const ideaName = categoryId || "new";
   if (loading) {
     return (
-      <div className="lg:absolute left-2/4 top-72 md:absolute top-72 sm:absolute top-72">
+      <div className="lg:absolute left-2/4 top-72 md:absolute sm:absolute">
         <Spinner message={`We are adding ${ideaName} ideas to your feed!`} />
       </div>
     );
