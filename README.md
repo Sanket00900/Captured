@@ -41,18 +41,22 @@ https://captured09.netlify.app/
  
       
 ## 📋 Dependencies Used
-- cupertino_icons: ^1.0.2
-- hive: ^2.0.2
-- hive_flutter: ^1.0.0
-- local_auth: ^1.1.6
-- encrypt: ^5.0.0
-- flutter_secure_storage: ^4.2.0
-- fluttertoast: ^8.0.3
-- google_fonts: ^2.0.0
-- font_awesome_flutter: ^9.2.0
-- flutter_slidable: ^0.6.0
-- password_strength: ^0.2.0
-- get: ^4.6.1      
+  "@react-oauth/google": "^0.2.6",
+  "@sanity/client": "^3.3.3",
+  "@sanity/image-url": "^1.0.1",
+  "@testing-library/jest-dom": "^5.16.5",
+  "@testing-library/react": "^13.3.0",
+  "@testing-library/user-event": "^13.5.0",
+  "jwt-decode": "^3.1.2",
+  "react": "^18.2.0",
+  "react-dom": "^18.2.0",
+  "react-google-login": "^5.2.2",
+  "react-icons": "^4.4.0",
+  "react-loader-spinner": "^5.1.7-beta.1",
+  "react-masonry-css": "^1.0.16",
+  "react-router-dom": "^6.3.0",
+  "react-scripts": "5.1.0-next.14",
+  "uuid": "^8.3.2",      
       
  ## ✍️Author
 
@@ -69,21 +73,4 @@ Contributions, issues, and feature requests are welcome!
 Give a ⭐️ if you like this project!
 
 <div align="center">
-<img src="https://img.shields.io/github/followers/ishanrakte.svg?style=social&label=Follow"></img>
-      
-<!-- # flutter_password_manager
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference. -->
+<img src="https://img.shields.io/github/followers/Sanket00900.svg?style=social&label=Follow"></img>
