@@ -1,9 +1,6 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/93209316/184553348-6f25c0dd-5f6e-4b30-8797-68b3b42e41f4.png" alt="logo" width=400px/></div>
 
 
-https://captured09.netlify.app/
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/92cab500-7139-4527-aa7f-0325ee339c34/deploy-status)](https://app.netlify.com/sites/captured09/deploys)
 
 
 <p align="center">Now-a-days we use various accounts for various purposes for a single service. The service can be for example your google account, and we tend to have more than one account. Personal, Organization (Education, Company etc.), group/team account are some examples of multiple accounts we have for a particular service. As we have separate accounts for separate use cases, we also have their individual passwords, keeping track of all these passwords can be hard. A password manager is the correct solution for this problem. But a password manager should manage the passwords in such a way that the passwords will never be leaked, shared or compromised in any way. The passwords should be stored in the manager in an encrypted way so even if the password gets leaked, it will be unreadable/unrecognizable. This project uses three layers of security(Biometric, Encryption and Hive Encrypted Box).</p>
@@ -22,6 +19,13 @@ https://captured09.netlify.app/
     <td><img src = "https://user-images.githubusercontent.com/93209316/184554589-74a98e53-cbe8-49b2-b6ef-be9a71a822f3.png" alt = "Google Authentication" width = "650" height = "250"></td>
 
 </table>
+ 
+ 
+ ## 💻 Deployment 
+ 
+https://captured09.netlify.app/
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/92cab500-7139-4527-aa7f-0325ee339c34/deploy-status)](https://app.netlify.com/sites/captured09/deploys)
       
  ## 🏗️ Built With
 
@@ -62,9 +66,10 @@ https://captured09.netlify.app/
 
 **Sanket Jagdale**
 
+- [LinkedIn](https://www.linkedin.com/in/sanket-jagdale-09/) 
 - [GitHub Profile](https://github.com/Sanket00900)
 - [Email](mailto:sanketsjagdale999@gmail.com?subject=Hi "Hi!" )
-- [LinkedIn](https://www.linkedin.com/in/sanket-jagdale-09/)    
+   
       
 ## 🤝 Support
 
