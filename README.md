@@ -3,7 +3,7 @@
 
 <hr>
 
-<p align="center">Captured 📸 - Full Stack Application Where Users can share, download, save pins of the different catagories such as technology, nature, animals, wallpapers, etc.<br>User will have Personalied profile page where saved and created pins will displayed. Frontend is created using React 🔯 and styled using Tailwind CSS 🌟.  Sanity.io ⚒️ as an unified content platform which powers better digital experiences.<br>Give Your Best Shot 😉</p>
+<p align="center">Captured 📸 - Full Stack Application Where Users can share, download, save pins of the different categories such as technology, nature, animals, wallpapers, etc.<br>User will have Personalized profile page where saved and created pins will displayed. Frontend is created using React 🔯 and styled using Tailwind CSS 🌟.  Sanity.io ⚒️ as an unified content platform which powers better digital experiences.<br>Give Your Best Shot 😉</p>
  
 
 ## 📱 Screenshots
