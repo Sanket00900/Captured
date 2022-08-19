@@ -10,8 +10,8 @@
 
 <table>
   <tr>
-    <td><img src = "https://user-images.githubusercontent.com/93209316/184554295-c8482ac3-9966-4d7b-9987-c240254d304c.png" alt = "Google Authentication" width = "650" height = "230"></td>
-    <td><img src = "https://user-images.githubusercontent.com/93209316/184554414-db75dec0-ecdd-4ea8-85c4-225a36bfdf18.png" alt = "Feed View" width = "650" height = "230"></td>
+    <td><img src = "https://user-images.githubusercontent.com/93209316/184554295-c8482ac3-9966-4d7b-9987-c240254d304c.png" alt = "Google Authentication" width = "670" height = "230"></td>
+    <td><img src = "https://user-images.githubusercontent.com/93209316/184554414-db75dec0-ecdd-4ea8-85c4-225a36bfdf18.png" alt = "Feed View" width = "670" height = "230"></td>
   </tr>
 </table>
 <table>
