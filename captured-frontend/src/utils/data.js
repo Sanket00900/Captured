@@ -2,7 +2,7 @@ export const categories = [
   {
     name: "india",
     image:
-      "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/india-tech-shutterstock.fw_-675x380.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMukOXyK1OmKkbRqy4tNoXL3ykF7n-8XgN3rrzygwD&s",
   },
   {
     name: "cars",
